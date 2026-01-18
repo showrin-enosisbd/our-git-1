@@ -6,3 +6,4 @@ Goals
 4. Build Ft-5
 5. Build Ft-6
 6. Build Ft-7
+7. Build Ft-8
